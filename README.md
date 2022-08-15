@@ -6,6 +6,7 @@ To Install packages:
 
 ```bash
 npm install package
+```
 
 First, run the development server:
 
